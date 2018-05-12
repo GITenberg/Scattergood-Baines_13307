@@ -1,0 +1,28 @@
+_repo: Scattergood-Baines_13307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelland, Clarence Budington
+    alias: Kelland, Clarence B.
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '4987'
+    url: http://www.gutenberg.org/2009/agents/4987
+description: Cover -- Table of Contents.
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Baines, Scattergood (Fictitious character) -- Fiction'
+- !lcsh 'New England -- Fiction'
+title: Scattergood Baines
+url: http://www.gutenberg.org/ebooks/13307
